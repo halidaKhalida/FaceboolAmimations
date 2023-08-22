@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         anim1.setOnClickListener {
             laAnimation.setAnimation("anim1.json")
             laAnimation.playAnimation()
-            tvText1.text="Telefram"
+            tvText1.text="Facebook"
             tvText2.text="fhffjfjfgjfj hfghfjgg gfh hfgh fhgghhfghfh ghfhf fgjhfgh"
         }
         anim2.setOnClickListener {
